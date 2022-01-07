@@ -1,5 +1,5 @@
 
-# Voron Panel Clip
+# Voron 2.4 Panel Clip
 Clips for Voron panels.
 
 Concept by zruncho (voron discord), tweaks by me.
