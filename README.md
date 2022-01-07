@@ -5,6 +5,7 @@ Clips for Voron panels.
 Concept by zruncho (discord), tweaks by me.
 
 They are flexible enough to easily install and remove yet, since they are full length, provide enough force to hold the panel snugly to the extrusion. These are optimized for formbot kit extrusions (which I think are virtually identical to misumi). Other extrusions make require tweaking the flange separation to get the right balance of ease of insertion/removal and holding power.
+!(/pics/prototype.jpg)
 
 * For 3.5 mm thickness (2.5 mm panel with 1 mm foam)
 * For 5.5 mmm thickness (2.5 mm panel with 3 mm foam)
