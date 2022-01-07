@@ -9,13 +9,13 @@ They are flexible enough to easily install and remove, yet since they are full l
 ![1](pics/prototype2.jpg)![3](pics/installed.jpg)
 ![2](pics/profile2.jpg)
 * For 3.5 mm thickness (2.5 mm panel with 1 mm foam)
-* For 5.5 mmm thickness (2.5 mm panel with 3 mm foam)
+* For 5.5 mm thickness (2.5 mm panel with 3 mm foam)
 
 
 Printing:
 - Vase mode with no top or bottom layers
-- .6mm extrusion width
-- .2mm layer height (I'm sure other heights will work)
+- .6 mm extrusion width
+- .25 mm layer height (I'm sure other heights will work)
 - Brim to hold it down. If you do print a bottom layer on it, it will need to be removed to get the necessary flexibility for easy installation and removal.
 
 Using a stealthburner on a 2.4 I am able to print these in ABS at 50mm/s with 100% fan. That's greater than 10mm per minute.
