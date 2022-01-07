@@ -15,7 +15,7 @@ They are flexible enough to easily install and remove, yet since they are full l
 
 
 Printing:
-- Vase mode
+- Vase mode with no top or bottom layers
 - .6mm extrusion width
 - .2mm layer height (I'm sure other heights will work)
 - Brim to hold it down. If you do print a bottom layer on it, it will need to be removed to get the necessary flexibility for easy installation and removal.
