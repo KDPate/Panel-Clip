@@ -16,7 +16,7 @@ Printing:
 - Vase mode with no top or bottom layers
 - .6 mm extrusion width
 - .25 mm layer height (I'm sure other heights will work)
-- Stretch z to your heart's desire. I have printed a bunch at over 200 mm. Two of these will more than span a V2.4 300 panel.
+- Stretch z to your heart's desire. I have printed a bunch at 240 mm. Two of these will more than span a V2.4 300 panel.
 - Brim to hold it down. If you do print a bottom layer on it, it will need to be removed to get the necessary flexibility for easy installation and removal.
 
 With a stealthburner on a V2.4 I am able to print these in ABS at 50mm/s with 100% fan. That's greater than 10mm per minute.
