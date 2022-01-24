@@ -21,4 +21,4 @@ Printing:
 
 With a stealthburner on a V2.4 I am able to print these in ABS at 50mm/s with 100% fan. That's greater than 10mm per minute.
 
-
+Corners added. These will create a mitered corner with a closed end when printed in vase mode. The extrusion tangs have been removed close to the end to allow installation over cross members. These are 240mm long. Mirror and/or clip the bottom off to suit your application and length need.
